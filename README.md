@@ -1,5 +1,8 @@
 # IT7009 Artificial Intelligence — Intelligent Traffic Incident Analysis System
 
+> 📌 **Before submitting, read [`PROJECT_STATUS.md`](PROJECT_STATUS.md)** — it contains the current
+> status, the estimated grade against the rubric, and the **outstanding action items**.
+
 Group project submission for **IT7009 Artificial Intelligence** (Academic Year 2026–2027, Semester A, Brief 1).
 
 A machine-learning pipeline that analyses simulated urban road-traffic incident records to
